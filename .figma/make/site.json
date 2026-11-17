@@ -1,0 +1,10 @@
+{
+  "description": "An AI-powered college management platform unifying administration, faculty, and students with tools for academics, attendance, assignments, and analytics.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
